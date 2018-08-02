@@ -29,5 +29,5 @@ python classify_with_mlp.py subramanian relief
 ```
 Classify using SVM with LASSO features with *sun* dataset.
 ```
-python classify_with_svm.py sun relief
+python classify_with_svm.py sun lasso
 ```
