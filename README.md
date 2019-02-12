@@ -11,6 +11,12 @@ Datasets are DNA microarray gene expression data. [Dataset Link](https://github.
 ## Methods
 We are using LASSO and Relief for Feature Selection and SVM and MLP for classification.
 
+## Download
+
+```
+git clone https://github.com/kivancguckiran/microarray-classification
+```
+
 ## Usage
 *data* folder should be filled with the dataset you want to classify.
 
