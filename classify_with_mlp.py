@@ -41,8 +41,6 @@ else:
 	indexes = gains.argsort()[-indexes.shape[0]:][::-1]
 
 
-step = 0
-
 scores = []
 
 loo = LeaveOneOut()
@@ -96,8 +94,6 @@ for train_index, test_index in loo.split(features):
 	score = model.evaluate(X_test, Y_test, verbose=0)
 	
 	scores.append(score[1])
-	
-	step += 1
 
 endTime = time.time()
 	
