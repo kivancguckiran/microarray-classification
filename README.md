@@ -1,5 +1,5 @@
 # Microarray Work
-## [[Paper]]()[[Datasets]](https://github.com/kivancguckiran/microarray-data)
+## [[Paper]](https://dergipark.org.tr/sdufenbed/issue/39838/453462)[[Datasets]](https://github.com/kivancguckiran/microarray-data)
 
 DNA Microarray Gene Expression Data Classification Using SVM and MLP with Feature Selection Methods Relief and LASSO.
 
