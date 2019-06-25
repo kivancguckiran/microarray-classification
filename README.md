@@ -3,7 +3,7 @@
 
 DNA Microarray Gene Expression Data Classification Using SVM and MLP with Feature Selection Methods Relief and LASSO.
 
-If you are planning to use this code in your research, please cite this [paper]().
+If you are planning to use this code in your research, please cite this [paper](https://dergipark.org.tr/sdufenbed/issue/39838/453462).
 
 ## Dataset
 Datasets are DNA microarray gene expression data. [Dataset Link](https://github.com/kivancguckiran/microarray-data).
